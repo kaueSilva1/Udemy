@@ -17,9 +17,21 @@ body {
     background: #e8e8d9;
     padding: 10px;
 }
+#rodape{
+    text-align: center;
+}
 
 .centralizar {
     text-align: center;
+}
+
+.img-campanha{
+    border: 10px solid #c3c3ae;
+}
+
+h1{
+    color: #828217;
+    font-size: 1.2em;
 }
 
 a {
